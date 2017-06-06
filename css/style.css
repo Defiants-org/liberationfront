@@ -15,25 +15,26 @@ html {
 
 
 /* HEADER ////////////////////////////////////////////////////////////////// */
-.intro-section {
+header {
     height: auto;
     padding: 150px 0 250px 0;
     text-align: center;
-    background: #fff;
+    background: black;
+    color: white;
 }
 
 /* OVER ////////////////////////////////////////////////////////////////// */
 
-.about-section {
+about {
     height: auto;
     padding: 150px 0 150px 0;
     text-align: center;
-    background: black;
-    color: #fff;
+    background: #fff;
+    color: black;
 }
 
 /* FOOTER ////////////////////////////////////////////////////////////////// */
-.footer-section {
+footer {
     height: auto;
     padding: 50px 0 50px 0;
     text-align: center;
