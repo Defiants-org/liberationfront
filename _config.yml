@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: 
+title: 
+email: 
+author: 
+description: > # "..."
+copyright:
+credits: ''
+port: 4005
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: 
+  - title: github
+    url: 
+  - title: linkedin
+    url:
