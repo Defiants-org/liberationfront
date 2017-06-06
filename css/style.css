@@ -1,0 +1,41 @@
+/* BODY /////////////////////////////////////////////////////////////////// */
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+
+/* HEADER ////////////////////////////////////////////////////////////////// */
+.intro-section {
+    height: auto;
+    padding: 150px 0 250px 0;
+    text-align: center;
+    background: #fff;
+}
+
+/* OVER ////////////////////////////////////////////////////////////////// */
+
+.about-section {
+    height: auto;
+    padding: 150px 0 150px 0;
+    text-align: center;
+    background: black;
+    color: #fff;
+}
+
+/* FOOTER ////////////////////////////////////////////////////////////////// */
+.footer-section {
+    height: auto;
+    padding: 50px 0 50px 0;
+    text-align: center;
+    background: black;
+}
